@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Camera-M-PCB.PcbDoc   2023/10/3  15:17:36
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Camera-M-PCB-RoundHoles.TXT
+ASCII SlotHoles File : Camera-M-PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             261       PTH        554.38mm (21.83inch)
+T2      0.5mm (20mil)                                             Round             4         PTH        3.75mm (0.15inch)
+T3      0.7mm (28mil)                                             Slot              2         PTH        20.27mm (0.80inch)
+T4      0.8mm (31mil)                                             Slot              2         PTH        19.64mm (0.77inch)
+T5      3mm (118mil)                                              Round             2         PTH        54.04mm (2.13inch)
+T6      0.75mm (30mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T7      1mm (39mil)                                               Round             2         NPTH       8.00mm (0.31inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              275
+
+Total Processing Time (hh:mm:ss) : 00:00:00

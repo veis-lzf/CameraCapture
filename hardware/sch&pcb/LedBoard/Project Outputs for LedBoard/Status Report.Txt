@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [LedBoard.PrjPcb]
+   Generated File[Pick Place for LED.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:27:58 On 2023/10/3

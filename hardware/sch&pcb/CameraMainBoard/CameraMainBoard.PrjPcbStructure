@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=01-Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01-Power.SchDoc|FileName=02-MCU_01.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01-Power.SchDoc|FileName=03-CameraSensor.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01-Power.SchDoc|FileName=04-TFCard_SU03T.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01-Power.SchDoc|FileName=05-MCU_02.SchDoc|SheetNumber=5
